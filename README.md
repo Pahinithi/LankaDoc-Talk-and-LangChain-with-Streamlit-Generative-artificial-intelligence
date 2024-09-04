@@ -100,10 +100,10 @@ LankaDoc Talk is an AI-powered chatbot application designed to interact with the
 LankaDoc-Talk/
 │
 ├── requirements.txt        # Required Python packages
-├── screenshots/            # Folder for screenshots
-│   ├── main_interface.png
-│   ├── pdf_upload.png
-│   └── chat_interaction.png
+
+│   
+│   
+│   
 ├── src/
 │   ├── main.py             # Main Streamlit application
 │   ├── .env.example        # Example environment file
